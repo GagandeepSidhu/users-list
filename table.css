@@ -1,0 +1,13 @@
+table.table {
+    margin-top:30px;
+
+}
+table.table th {
+border-width: 2px;
+    border-style: solid;
+    background-color: #d3d3d3;
+}
+table.table td {
+    border-width: 1px;
+    border-style: solid;
+}
